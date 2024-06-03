@@ -1,5 +1,5 @@
 # Trabalho-Teoria-da-Computa-o
-Primeiro trabalho de teoria da computação desenvolvido com a supervisão do professor Wellington Aparecido Della Mura, com o fim de aplicar os conceitos aprendidos em aula sobre automatos finitos.
+Primeiro trabalho de teoria da computação desenvolvido com a supervisão do professor Wellington Aparecido Della Mura, com o fim de aplicar os conceitos aprendidos em aula sobre automatos finitos
 ## Automato em .json
 ```json
 {
