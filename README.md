@@ -42,9 +42,9 @@ abcabc;1;1;0.0
 abccba;0;0;0.0
 ```
 ### Funcionamento
-#### Para compilar, não utilizamos IDE's ou intefaces digitais, executamos pelo CMD, entretanto, para acessar foi necessário incluir o caminho da pasta onde está incluso todos os arquivos. Com o seguinte comando:
+#### Para compilar, não utilizamos IDE's ou interfaces digitais, executamos pelo CMD, entretanto, para acessar foi necessário incluir o caminho da pasta onde está incluso todos os arquivos. Com o seguinte comando:
 ```bash
- C:\Windows\system32>cd C:\Users\End User\OneDrive\Área de Trabalho\automatos
+ C:\Windows\system32>cd C:\Users\"seu usuario"\"local da pasta"\"pasta com automato e demais arquivos"
 ```
 #### Após o caminho da pasta, é necessário incluir o comando para acessar o código pelo CMD:
 ```bash
